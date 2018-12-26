@@ -8,6 +8,11 @@ tmall:
   icon: 'https://img.alicdn.com/tfs/TB16oCjX4GYBuNjy0FnXXX5lpXa-300-300.png'
   iOS: 'https://itunes.apple.com/cn/app/id518966501?mt=8'
   android: 'https://play.google.com/store/apps/details?id=com.tmall.wireless&hl=zh_CN'
+zhaopin:
+  name: '智联'
+  icon: 'https://raw.githubusercontent.com/zhilianzhaopin/zhilianzhaopin.github.io/master/img/icon1024.png'
+  iOS: 'https://itunes.apple.com/us/app/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E7%BD%91-%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%B1%82%E8%81%8C%E4%BA%BA%E6%89%8D%E6%8B%9B%E8%81%98%E8%BD%AF%E4%BB%B6/id488033535?l=zh&ls=1&mt=8'
+  android: 'https://m.zhaopin.com/DownLoad/downapp.html'
 youku:
   name: '优酷'
   icon: 'https://img.alicdn.com/tfs/TB1CjajX1uSBuNjy1XcXXcYjFXa-740-737.png'
